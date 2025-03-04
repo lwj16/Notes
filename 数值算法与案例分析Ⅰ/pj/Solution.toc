@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}算法}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}基于Householder变换的矩阵上Hessenberg化}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}上Hessenberg矩阵的实Schur分解}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}实现细节}{2}{section.2}%
+\contentsline {section}{\numberline {3}数值表现}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}运行效率}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}数值稳定性}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}迭代次数}{3}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}收敛矩阵的结构}{3}{subsection.3.4}%
+\contentsline {section}{\numberline {4}声明}{4}{section.4}%
+\contentsline {section}{\numberline {A}基于Householder变换的矩阵上Hessenberg化}{5}{appendix.a.A}%
+\contentsline {section}{\numberline {B}Wilkinson隐式位移}{6}{appendix.b.B}%
+\contentsline {section}{\numberline {C}Francis隐式双位移}{7}{appendix.c.C}%
